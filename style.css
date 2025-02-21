@@ -100,8 +100,9 @@ header{
 
 .rettangoloenorme{
     height: 400px;
-    width: 800px;
+    width: 750px;
     background-color: olive;
+    border: 1px dashed black;
 
 }
 
@@ -110,15 +111,15 @@ header{
 }   
 
 .colonnapiccola{
-   width: 200px;
-   height: 50px;
+   width: 130px;
+   height: 300px;
     background-color: #20b3aa;
+    border: 1px dashed #fff;
 }
 
 .colonnagrande{
-    
-    
+    width: 200px;
+    height: 300px;
     background-color: rosybrown;
-
->
+    border:1px dashed black
 }
