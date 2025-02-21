@@ -5,6 +5,7 @@
 }
 
 .container{
+<<<<<<< HEAD
     display:flex;
     max-width: 1200px;
     margin:0 auto;
@@ -118,4 +119,6 @@ header{
     
     
     background-color: rosybrown;
+
+>
 }
